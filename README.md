@@ -1,6 +1,5 @@
 # AventureWorks-CustomerSegmentation
-
-[Data Dictonary](https://drive.google.com/drive/u/1/folders/1Vh8I2l186hNx_k0ETJ7SAbCCaL5dnAWt)
+The Data Dictionary is [here](https://drive.google.com/drive/u/1/folders/1Vh8I2l186hNx_k0ETJ7SAbCCaL5dnAWt)
 
 ## Database
 The AdventureWorks database supports standard online transaction processing scenarios for a fictious bicycle manufacturer (Adventure Works Cycles).
