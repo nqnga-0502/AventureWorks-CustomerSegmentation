@@ -1,5 +1,6 @@
 # AventureWorks-CustomerSegmentation
 The Data source is available [here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+<br>
 The Data Dictionary is [here](https://drive.google.com/drive/u/1/folders/1Vh8I2l186hNx_k0ETJ7SAbCCaL5dnAWt)
 
 ## Database
